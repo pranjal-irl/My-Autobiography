@@ -232,17 +232,24 @@ section{
 }
 
 .ferozepur{
-    background-image: url(https://cdn.hackclub.com/019edec8-a298-7f9b-b4db-155d0fcff2ef/aps%20ferozepur.png);
+    background-image: url(https://cdn.hackclub.com/019f6f95-2103-7e95-a175-a2a3784e7301/ferozepur%20background.jpg);
     background-size: cover;
     background-position: center;
     color: white;
 }
 
 .kv2dc{
-    background-image: url();
+    background-image: url(https://cdn.hackclub.com/019f6f88-3ec3-79e7-a377-eaa5914ae218/kv2dc%20background.jpg);
     background-size: cover;
     background-position: center;
     color: white;
+}
+
+.jee{
+    background-image: url(https://cdn.hackclub.com/019f6f9f-587f-7126-b068-06cb53c5634c/jee%20background.jpg);
+    background-size: cover;
+    background-position: center;
+    color: white; 
 }
 
 @media(max-width: 768px){
